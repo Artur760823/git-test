@@ -1,2 +1,3 @@
 To jest pierwsza wersja pliku nr 4.
-Po commit wszytkich plików
+Po commit wszytkich plików.
+Kolejna zmiana po commicie.
